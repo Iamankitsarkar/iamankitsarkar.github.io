@@ -16,6 +16,7 @@ MonkeyDefense.Game.prototype = {
     buildWorld: function() {
         this.add.image(0,0, 'Background');
         this.buildEnemies();
+        this.buildMainMonkey();
         
 }
     
