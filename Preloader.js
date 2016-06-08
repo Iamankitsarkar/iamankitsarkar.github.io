@@ -19,13 +19,13 @@ MonkeyDefense.Preloader.prototype = {
         
         this.load.bitmapFont('eightbitwonder', 'fonts/eightbitwonder.png', 'fonts/eightbitwonder.fnt');
         
-        this.load.image('Gunner', 'ImageAssets/monkeygunner.png');
+        this.load.image('hero', 'ImageAssets/monkeygunner.png');
         
-        this.load.image('Enemy', 'ImageAssets/Evilmonkey.png');
+        this.load.image('enemy', 'ImageAssets/Evilmonkey.png');
         
-        this.load.image('Bullet', 'ImageAssets/Coconuts.png');
+        this.load.image('bullet', 'ImageAssets/Coconuts.png');
         
-        this.load.image('Background', 'ImageAssets/map.png');
+        this.load.image('background', 'ImageAssets/map.png');
     },
  
     create: function () {

@@ -1,5 +1,6 @@
 MonkeyDefense.StartMenu = function (game) {
     this.startBG;
+    this.startPrompt;
     
 };
 
