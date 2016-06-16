@@ -15,7 +15,7 @@ MonkeyDefense.Preloader.prototype = {
         this.titleText = this.add.image(this.world.centerX, this.world.centerY - 320, 'MonkeyDefenseTitle');
         this.titleText.anchor.setTo(0.5, 0.5);
         
-        this.load.image('titlescreen', 'ImageAssets/MDtitlescreen.png');
+        this.load.image('titlescreen', 'ImageAssets/titlescreen.png');
         
         this.load.bitmapFont('eightbitwonder', 'fonts/eightbitwonder.png', 'fonts/eightbitwonder.fnt');
         
@@ -25,7 +25,7 @@ MonkeyDefense.Preloader.prototype = {
         
         this.load.image('bullet', 'ImageAssets/Coconuts.png');
         
-        this.load.image('background', 'ImageAssets/map.png');
+        this.load.image('background', 'ImageAssets/newmap.png');
     },
  
     create: function () {
