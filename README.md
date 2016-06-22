@@ -8,5 +8,5 @@ A monkey, Tyrone, is equipped with a machine gun stationed on the far left side 
 Use the up and down arrows to move Tyrone up and down the screen and use the space key to operate his machine gun.
 Good Luck and Have Fun!
 
-[a link](https://github.com/Iamankitsarkar/iamankitsarkar.github.io)
+[Monkey Defense Game](https://iamankitsarkar.github.io)
  
